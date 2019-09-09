@@ -285,7 +285,7 @@
     "example": "example"
   },
   "devDependencies": {
-    "@types/chai": "^4.1.7",
+    "@types/chai": "4.2.1",
     "@types/glob": "^7.1.1",
     "@types/lodash": "^4.14.136",
     "@types/mocha": "^5.2.7",
